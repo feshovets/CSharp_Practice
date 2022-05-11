@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Price": 100,
+    "Title": "Advertisement",
+    "Transaction": "XX-111-XX/11",
+    "PhotoURL": "ss",
+    "WebsiteURL": "ss",
+    "StartDate": "2012/03/19",
+    "EndDate": "2020/02/02"
+  },
+  {
+    "ID": 2,
+    "Price": 200,
+    "Title": "Advertisement",
+    "Transaction": "YY-222-YY/11",
+    "PhotoURL": "ss",
+    "WebsiteURL": "ss",
+    "StartDate": "2012/03/19",
+    "EndDate": "2020/02/02"
+  },
+  {
+    "ID": 3,
+    "Price": 500,
+    "Title": "Advertisement",
+    "Transaction": "XX-111-XX/11",
+    "PhotoURL": "ss",
+    "WebsiteURL": "ss",
+    "StartDate": "2012/03/19",
+    "EndDate": "2020/02/02"
+  },
+  {
+    "ID": 4,
+    "Price": 800,
+    "Title": "Advertisement",
+    "Transaction": "XX-111-XX/11",
+    "PhotoURL": "ss",
+    "WebsiteURL": "ss",
+    "StartDate": "2012/03/19",
+    "EndDate": "2020/02/02"
+  }
+]
